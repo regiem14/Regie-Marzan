@@ -1,0 +1,38 @@
+body{
+    font-size: x-large;
+    background-size: cover;
+    background-position: 10%;
+    background-image:linear-gradient(rgba(164, 183, 244, 0.48), rgba(132, 156, 237, 0.444)), url('images/Background\ Img.jpg');
+}
+
+.header img{
+    width: 10%;
+    height: 5%;
+    border: solid black 3px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    height: 50%;
+    border: solid rebeccapurple 10px;
+    color: white;
+    background-color: rgba(144, 238, 144, 0.613);
+    width: 50%;
+    margin-left: 25%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
